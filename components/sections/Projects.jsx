@@ -9,7 +9,7 @@ import TextSpan from '../TextSpan'
 const Projects = () => {
   const sentence = 'Projects'.split("")
   return (
-    <section className='min-h-screen' id='projects'>
+    <section className='min-h-screen scroll-mt-36' id='projects'>
       <motion.div variants={staggerContainer(0.4, 0.2)} initial="hidden" whileInView="show" viewport={{once: 'false', amount: 0.45}} className='mb-12'>
         <motion.h2 variants={fadeIn('up','tween', .1, .6)} className="text-4xl lg:text-5xl text-primary font-bold mb-4 inline-block">
           {sentence.map((letter, index) => (

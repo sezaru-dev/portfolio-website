@@ -63,7 +63,7 @@ const Header = () => {
       <AnimatePresence>
         {
           isOpen &&
-        <motion.div variants={mobileMenu} initial="hidden" animate="show" transition="transition" exit="exit" className={`top-16 absolute left-0 right-0 h-screen bg-darkPrimary flex flex-col items-center`}>
+        <motion.div variants={mobileMenu} initial="hidden" animate="show" transition="transition" exit="exit" className={`top-0 absolute left-0 right-0 h-screen bg-darkPrimary flex flex-col items-center`}>
           <nav className='mx-auto px-5 w-full h-full flex'>
             <ul className='flex flex-col items-center justify-center gap-6 w-full text-xl'>
             {navLinks.map((link, index) => {

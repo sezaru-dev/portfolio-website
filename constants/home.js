@@ -25,7 +25,7 @@ export const navLinks = [
 	},
 	{
 		title: 'Resume',
-		url: '/',
+		url: 'https://drive.google.com/file/d/1oN1bcOAtKM40I0-ogv43iddCqEDz51n1/view?usp=share_link',
 		cName: 'cta_resume',
 	},
 ];
@@ -137,8 +137,8 @@ export const projects = [
 		description: 'My first Front-end web developer portfolio website.',
 		techsUsed: ['Next', 'Tailwind', 'Framer Motion'],
 		image: 'portfolio.png',
-		liveUrl: 'https://jlpt-tango.vercel.app/',
-		githubUrl: 'https://github.com/sezaru-dev/jlpt-tango',
+		liveUrl: 'https://sezaru.vercel.app/',
+		githubUrl: 'https://github.com/sezaru-dev/portfolio-website',
 	},
 	{
 		title: 'JLPT Tango単語',

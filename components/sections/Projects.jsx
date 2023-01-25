@@ -30,7 +30,7 @@ const Projects = () => {
         })}
       </div>
       <motion.div variants={fadeIn('up','tween', .1, .6)} initial="hidden" whileInView="show" viewport={{once: 'false', amount: 1}} className='w-full flex items-center justify-center'>
-        <a href='/' target='_blank'  className='px-12 py-2.5 text-lg rounded-md text-wht border-[0.1rem] border-primary bg-primary/10 hover:bg-primary/[.05] font-medium transition-colors ease-in-out duration-200'>
+        <a href='/projects' target='_blank'  className='px-12 py-2.5 text-lg rounded-md text-wht border-[0.1rem] border-primary bg-primary/10 hover:bg-primary/[.05] font-medium transition-colors ease-in-out duration-200'>
             See more
         </a>
       </motion.div>

@@ -221,7 +221,7 @@ export const otherProjects = [
 			'A simple Hiragana Multiple Choice App that I created when I started learning Javascript. Aims to make memorizing Japanese Hiragana fun.',
 		techsUsed: ['HTML', 'CSS', 'Javascript'],
 		image: 'hiragana-multiple-choice.png',
-		liveUrl: 'https://hiraganaquizgame.netlify.app/',
+		liveUrl: 'https://hiraganamultiplechoice.netlify.app/',
 		githubUrl: 'https://github.com/sezaru-dev/hiragana-multiple-choice',
 	},
 	{

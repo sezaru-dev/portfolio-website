@@ -71,8 +71,8 @@ export const heroData = {
 export const aboutData = {
 	heading: [
 		'Hi. I’m Cezar, looking for an opportunity to start a career and enhance my skills in front-end web development.',
-		'My dream is to build things similar to what an inventor do. It turns out that building websites are similar to our so called "inventions" because it will solve the problems encountered and automate things.',
-		'My interest in web development started way back 2017 when i’ve been appointed as the leader and programmer in our Thesis Project and when I visited a certain website for a graphics artists with awesome user-interaction like unblur part of background image on mouse pointer position. I got amazed and I said to myself "I like to build amazing website like this someday".',
+		'My dream is to build things similar to what an inventor does. It turns out that building websites are similar to our so-called "inventions" because it will solve the problems encountered and automate things.',
+		'My interest in web development started way back 2017 when I was appointed as the leader and programmer in our Thesis Project and when I visited a certain website for a graphics artists with awesome user-interaction like unblur part of background image on mouse pointer position. I got amazed and I said to myself "I like to build amazing an website like this someday".',
 	],
 	education: {
 		course: 'Bachelor of Science in Information Technology',

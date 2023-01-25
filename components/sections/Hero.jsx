@@ -34,7 +34,7 @@ const Hero = () => {
         <motion.a variants={fade(0.8, .7)} href="/#projects"  className='px-12 py-2.5 text-lg rounded-md text-whitePrimary border-[0.1rem] border-primary bg-primary/10 hover:bg-primary/[.05] font-medium transition-colors ease-in-out duration-200'>
           Projects
         </motion.a>
-        <motion.p variants={fadeIn('right', 'tween', 1.5, 1.5)} className='absolute -bottom-2 -right-2 md:-bottom-6 lg:-bottom-7 lg:right-0 text-8xl md:text-[10rem] font-bold text-watermark'>sezaru</motion.p>
+        <motion.p variants={fadeIn('right', 'tween', 1.5, 1.5)} className='absolute -bottom-2 -right-2 md:-bottom-6 lg:-bottom-7 lg:right-0 text-8xl md:text-[10rem] font-bold text-watermark select-none'>sezaru</motion.p>
     </motion.section>
   )
 }

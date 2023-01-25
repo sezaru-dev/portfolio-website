@@ -31,7 +31,7 @@ export const navLinks = [
 ];
 
 export const emailLink =
-	'https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTKWbXDczqnWwzhwdfrkZwszlntmMNdxmgqRvmjFNtPPWggZkThlmLLvzwlPGvxxbRnCHL';
+	'https://mail.google.com/mail/u/0/?to=cezarbaguhin20@gmail.com&su=&body=&fs=1&tf=cm';
 
 export const footerSocials = [
 	{
